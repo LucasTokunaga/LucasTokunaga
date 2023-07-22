@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá, sou o Lucas Tokunaga da Silva. 
+Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/LucasTokunaga">
