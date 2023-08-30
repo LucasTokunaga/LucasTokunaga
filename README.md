@@ -18,5 +18,9 @@
   <a href="https://www.instagram.com/lucastokunaga_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.tokunaga.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-tokunaga-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+</div>
+<br>
+<div>
+ [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga-X&repo=Projeto-One-Piece&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasTokunaga/Projeto-One-Piece)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga-X&repo=Atividade3&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/LucasTokunaga/PWEB/tree/main/Atividade3)
 </div>
