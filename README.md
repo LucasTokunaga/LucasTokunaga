@@ -21,5 +21,6 @@
 </div>
 <br>
 <div>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&theme=tokyonight&repo=Projeto-One-Piece)(https://github.com/LucasTokunaga/Projeto-One-Piece)"
+ <a href="https://github.com/LucasTokunaga/Projeto-One-Piece"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Projeto-One-Piece&theme=tokyonight">
+ </a>
 </div>
