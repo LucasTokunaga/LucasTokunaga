@@ -21,5 +21,5 @@
 </div>
 <br>
 <div>
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Projeto-One-Piece&theme=tokyonight)](https://github.com/LucasTokunaga/Projeto-One-Piece)
-
+ [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Projeto-One-Piece&theme=tokyonight)](https://github.com/LucasTokunaga/Projeto-One-Piece)
+</div>
