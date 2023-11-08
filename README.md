@@ -23,4 +23,6 @@
 <div>
  <a href="https://github.com/LucasTokunaga/Projeto-One-Piece"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Projeto-One-Piece&theme=tokyonight">
  </a>
+ <a href="https://github.com/LucasTokunaga/Portifolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Portifolio&theme=tokyonight">
+ </a>
 </div>
