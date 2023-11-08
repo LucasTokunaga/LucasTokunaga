@@ -21,8 +21,8 @@
 </div>
 <br>
 <div>
- <a height="120em" href="https://github.com/LucasTokunaga/Projeto-One-Piece"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Projeto-One-Piece&theme=tokyonight">
+ <a href="https://github.com/LucasTokunaga/Projeto-One-Piece"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Projeto-One-Piece&theme=tokyonight">
  </a>
- <a height="120em" href="https://github.com/LucasTokunaga/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Portfolio&theme=tokyonight">
+ <a href="https://github.com/LucasTokunaga/Portfolio"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasTokunaga&repo=Portfolio&theme=tokyonight">
  </a>
 </div>
